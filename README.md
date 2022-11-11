@@ -1,6 +1,6 @@
 # IDEKENTERPRISES
 
-I am an experienced student with a passion for cyber security.
+I am an experienced student with a passion for cyber security, VR and AI.
 
 🖥️Programming Skills:
 - Node.js
@@ -15,21 +15,21 @@ I am an experienced student with a passion for cyber security.
 - JS
 - PHP
 
-Currently working on (UBC):
+## Currently working on (Academic):
 
-Java application to track medication dosage and times.
+- Java application to track medication dosage and times.
 
-SQL database system for a hypothetical trading platform using MySQL, PHP and Oracle.
+- SQL database system for a hypothetical trading platform using MySQL, PHP and Oracle.
 
-Pulsar detection using r (dplyr) as an academic project.
+- Pulsar detection using r (dplyr) as an academic project.
+
+- Creating the Cyber Security society at the University of Aberdeen.
 
 
-Currently working on (Personal):
+## Currently working on (Personal):
 
-Creating the Cyber Security society at the University of Aberdeen.
+- Participating in CTFs.
 
-Participating in CTFs.
+- Expanding my knowledge on AI models such as Stable Diffusion.
 
-Expanding my knowledge on AI models such as Stable Diffusion.
-
-Creating Discord bots using node.js and python.
+- Creating Discord bots using node.js and python.
