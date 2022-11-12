@@ -1,6 +1,6 @@
 # IDEKENTERPRISES
 
-I am an experienced student with a passion for cyber security, VR and AI.
+I am an English/French student with a passion for cyber security, VR and AI.
 
 🖥️Programming Skills:
 - Node.js
