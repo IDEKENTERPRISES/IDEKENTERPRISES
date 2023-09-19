@@ -17,13 +17,15 @@ I am an English/French student with a passion for cyber security, VR and AI.
 
 ## Currently working on (Academic):
 
-- Mini C compiler with Haskell.
+- AI/Machine Learning
 
-- Creating the Cyber Security society at the University of Aberdeen.
+- Software Engineering
 
 
 ## Currently working on (Personal):
 
 - Participating in CTFs.
 
-- Working on Barotrauma mods.
+- Climbing chess elo 🤓
+
+- Leetcode challenges
