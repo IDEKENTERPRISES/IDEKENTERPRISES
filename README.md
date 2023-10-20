@@ -3,10 +3,11 @@
 I am an English/French student with a passion for cyber security, VR and AI.
 
 🖥️Programming Skills:
-- Node.js
-- Python
+- Python (numpy included)
+- Java
+- C(++/#)
 - Lua
-- C#
+- Javascript (Node.js included)
 - R
 
 🌐 Web Dev Knowledge:
@@ -14,18 +15,21 @@ I am an English/French student with a passion for cyber security, VR and AI.
 - CSS
 - JS
 - PHP
+- SQL
 
 ## Currently working on (Academic):
 
-- AI/Machine Learning
+- AI/Machine Learning.
 
-- Software Engineering
+- Software Engineering.
+
+- Working on using IoT sensors to improve the second floor of the Sir Duncan Rice Library's space usage and air quality.
 
 
 ## Currently working on (Personal):
 
 - Participating in CTFs.
 
-- Climbing chess elo 🤓
+- Climbing chess elo. 🤓
 
-- Leetcode challenges
+- Leetcode challenges.
